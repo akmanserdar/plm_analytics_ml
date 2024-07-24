@@ -15,15 +15,10 @@ Using the model of Multiple Linear Regression we developed, you can predict the 
 ## Actionable Steps
 
 **Assign Optimized KPI:** Set realistic deadlines and expectations with CR owners.  
-
 **Improved Planning and Scheduling:** Plan project phases with more accuracy, knowing when approvals are likely to be completed.  
-
 **Prioritize Review:** Knowing that this request will take longer, prioritize its review to avoid project delays.  
-
 **Allocate Resources:** Ensure that the necessary resources (e.g., reviewers, subject matter experts) are available to expedite the process.  
-
 **Communicate:** Inform the relevant stakeholders about the expected approval time and any potential impacts on the project timeline.  
-
 **Monitor Progress:** Track the progress of the approval process closely and prevent if any delays occur.  
 
 ## Conclusion
