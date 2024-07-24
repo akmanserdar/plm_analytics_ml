@@ -22,7 +22,7 @@ Results:
 
    
     
-## Analysis and Interpretation of Use Case
+## Analysis and Interpretation of the Use Case
 
 + Train MSE (8.30) and Test MSE (10.27) are relatively low, indicating that the model's predictions are, on average, close to the actual approval times.
 + Train R^2 (0.73) and Test R^2 (0.70) suggest that the model explains 73% of the variance in the approval times for the training data and 70% for the test data.
