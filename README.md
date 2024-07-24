@@ -4,7 +4,7 @@ This repository contains a comprehensive analysis of change request (CR) approva
 # Example Use Case
 Let's say we have a sample change request input with the following features:
 
-Change_Type: Major /n
+Change_Type: Major
 Complexity: 8
 Department: Engineering
 Requested_By: UserA
