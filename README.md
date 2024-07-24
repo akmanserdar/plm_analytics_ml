@@ -4,16 +4,16 @@ This repository contains a comprehensive analysis of change request (CR) approva
 # Example Use Case
 Let's say we have a sample change request input with the following features:
 
-**Change_Type:** Major
-**Complexity:** 8
-**Department:** Engineering
-**Requested_By:** UserA
+'''**Change_Type:** Major'''
+'''**Complexity:** 8'''
+'''**Department:** Engineering'''
+'''**Requested_By:** UserA'''
 
 Using the predictive model we developed, you can forecast the approval time for this request. The model predicts that this change request will take 17.07 days to approve.
 
 # Actionable Steps:
 
-***Assign Optimized KPI:** Set realistic deadlines and expectations with change request (CR) owners.
+**Assign Optimized KPI:** Set realistic deadlines and expectations with change request (CR) owners.
 
 **Improved Planning and Scheduling:** Plan project phases with more precision, knowing when approvals are likely to be completed.
 
