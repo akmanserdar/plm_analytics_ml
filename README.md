@@ -10,14 +10,14 @@ Let's say we have a sample CR input with the following features:
 **Department:** Engineering  
 **Requested_By:** UserA  
 
-Results
+Results  
 
-   Model Evaluation Metrics:
-   Train MSE: 8.30
-   Train R^2: 0.73
-   Test MSE: 10.27
-   Test R^2: 0.70
-   Predicted Approval Time: Predicted approval time for sample change request: 17.07 days (Using the model of Multiple Linear Regression we developed, you can predict the ***approval time*** for this request.)
+   Model Evaluation Metrics:  
+   Train MSE: 8.30  
+   Train R^2: 0.73  
+   Test MSE: 10.27  
+   Test R^2: 0.70  
+   Predicted Approval Time: Predicted approval time for sample change request: 17.07 days (Using the model of Multiple Linear Regression we developed, you can predict the ***approval time*** for this request.)  
 
 
 ## Actionable Steps
