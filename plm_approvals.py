@@ -76,7 +76,7 @@ plt.show()
 
 # Sample input
 sample_request = pd.DataFrame({
-    'Complexity': [7],
+    'Complexity': [8],
     'Change_Type_Minor': [0],
     'Change_Type_Moderate': [0],
     'Change_Type_Major': [1],
