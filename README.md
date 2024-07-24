@@ -14,7 +14,7 @@ Using the model of Multiple Linear Regression we developed, you can predict the 
 
 ## Actionable Steps
 
-# Assign Optimized KPI: Set realistic deadlines and expectations with CR owners.  
+**Assign Optimized KPI:** Set realistic deadlines and expectations with CR owners.  
 
 **Improved Planning and Scheduling:** Plan project phases with more accuracy, knowing when approvals are likely to be completed.  
 
