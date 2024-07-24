@@ -17,7 +17,7 @@ Results
    Train R^2: 0.73  
    Test MSE: 10.27  
    Test R^2: 0.70  
-   Predicted Approval Time: Predicted approval time for sample change request: 17.07 days *(Using the model of Multiple Linear Regression we developed, you can predict the ***approval time*** for this request.)*  
+   Predicted approval time for sample change request: 17.07 days *(Using the model of Multiple Linear Regression we developed, you can predict the ***approval time*** for this request.)*  
 
 
 ## Actionable Steps
