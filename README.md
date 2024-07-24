@@ -10,7 +10,7 @@ Let's say we have a sample CR input with the following features:
 **Department:** Engineering  
 **Requested_By:** UserA  
 
-Using the model of Multiple Linear Regression we developed, you can predict the ***approval time*** for this request. The model predicts that "This CR will take 17.07 days to approve."
+Using the model of Multiple Linear Regression we developed, you can predict the ***approval time*** for this request. The model predicts that **"This CR will take 17.07 days to approve."**
 
 ## Actionable Steps
 
