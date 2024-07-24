@@ -8,11 +8,11 @@ Let's say we have a sample change request (CR) input with the following features
 **Department:** Engineering  
 **Requested_By:** UserA  
 
-Using the predictive model we developed, you can forecast the approval time for this request. The model predicts that this change request will take 17.07 days to approve.
+Using the predictive model we developed, you can forecast the approval time for this request. The model predicts that this CR will take 17.07 days to approve.
 
 # Actionable Steps
 
-**Assign Optimized KPI:** Set realistic deadlines and expectations with change request (CR) owners.  
+**Assign Optimized KPI:** Set realistic deadlines and expectations with CR owners.  
 
 **Improved Planning and Scheduling:** Plan project phases with more precision, knowing when approvals are likely to be completed.  
 
