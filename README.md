@@ -10,9 +10,8 @@ Let's say we have a sample CR input with the following features:
 **Department:** Engineering  
 **Requested_By:** UserA  
 
-Results  
+Results:  
 
-   Model Evaluation Metrics:  
    Train MSE: 8.30  
    Train R^2: 0.73  
    Test MSE: 10.27  
