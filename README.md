@@ -25,3 +25,6 @@ Using the model of Multiple Linear Regression we developed, you can predict the 
 **Communicate:** Inform the relevant stakeholders about the expected approval time and any potential impacts on the project timeline.  
 
 **Monitor Progress:** Track the progress of the approval process closely and prevent if any delays occur.  
+
+## Conclusion
+The model performs reasonably well with a good balance between train and test performance. The predictions are useful for planning and resource allocation in PLM processes. Further improvements can be made by enhancing feature engineering, exploring more complex models, and validating the model rigorously.
