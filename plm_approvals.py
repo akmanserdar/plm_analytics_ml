@@ -17,7 +17,7 @@ import matplotlib.pyplot as plt
 # Read Excel file
 df = pd.read_excel('/content/plm_approvals.xlsx')
 
-# Reviewing dataset
+# Review of dataset
 print(df.head())
 print(df.info())
 print(df.describe())
