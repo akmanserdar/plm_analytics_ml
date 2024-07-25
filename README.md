@@ -5,7 +5,7 @@ This repository contains a comprehensive analysis of change request (CR) approva
 Sample dataset is available in *plm_approvals.xlsx* file, code in *plm_approvals.jpynb* and *plm_approvals.py* files.
 
 ## Example Use Case
-Using the model of Multiple Linear Regression we developed, you can predict the ***approval time*** for following request.   
+Using the model of Multiple Linear Regression we developed, you can predict the ***approval time*** for given request.   
 Let's say we have a sample CR input with the following features:
 
 **Change_Type:** Major  
