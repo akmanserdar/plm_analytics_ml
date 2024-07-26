@@ -20,7 +20,7 @@ Results:
    Test MSE: 10.27  
    Test R^2: 0.70  
    
-   <u>Predicted approval time for sample change request: 17.07 days</u>  
+   <li><mark>Predicted approval time for sample change request: 17.07 days/mark></li>
 
    
     
