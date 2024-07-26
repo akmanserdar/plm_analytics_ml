@@ -2,7 +2,7 @@
 
 This repository contains a comprehensive analysis of change request (CR) approvals within a Product Lifecycle Management (PLM) system. The analysis includes Multiple Linear Regression as a machine learning (ML) model to optimize the approval process.
 
-Sample dataset is available in *plm_approvals.xlsx* file, code in *plm_approvals.jpynb* and *plm_approvals.py* files.
+Sample dataset is available in *plm_approvals.xlsx* file, code in *plm_analytics_ml.jpynb* and *plm_analytics_ml.py* files.
 
 ## Example Use Case
 Using the model of Multiple Linear Regression we developed, you can predict the ***approval time*** for given request.   
