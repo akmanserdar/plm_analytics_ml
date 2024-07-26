@@ -19,10 +19,9 @@ Results:
    Train R^2: 0.73  
    Test MSE: 10.27  
    Test R^2: 0.70  
-
-<li><mark>Predicted approval time for sample change request: 17.07 days</mark></li>
-
    
+   Predicted approval time for sample change request: 17.07 days.
+
     
 ## Analysis and Interpretation of the Use Case
 
